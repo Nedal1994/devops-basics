@@ -1,0 +1,22 @@
+{
+  "name": "devops-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run":"node index.js",
+    "test":"node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nedal1994/devops-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nedal1994/devops-basics/issues"
+  },
+  "homepage": "https://github.com/Nedal1994/devops-basics#readme"
+}
